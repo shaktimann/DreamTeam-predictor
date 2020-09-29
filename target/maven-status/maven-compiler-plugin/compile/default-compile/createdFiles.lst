@@ -1,0 +1,6 @@
+local/snake_game/OutputWriter.class
+local/snake_game/Game$1.class
+local/snake_game/LimitConstants.class
+local/snake_game/Category.class
+local/snake_game/Game.class
+local/snake_game/Player.class
